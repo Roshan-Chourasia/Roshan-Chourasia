@@ -28,7 +28,7 @@
   📁 Hosted in one repo: [Web Dev Projects](https://github.com/Roshan-Chourasia/Web-Dev-Projects)
 
 - **Spotify Clone** – UI-focused Spotify homepage clone using only frontend tools  
-  🔗 [View live](https://github.com/Roshan-Chourasia/Spotify_clone)
+  🔗 [View repo](https://github.com/Roshan-Chourasia/Spotify_clone)
 
 ---
 
@@ -72,8 +72,4 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
