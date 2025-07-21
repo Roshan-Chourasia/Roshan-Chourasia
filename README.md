@@ -68,7 +68,17 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-chourasia&show_icons=true&locale=en&layout=compact" alt="roshan-chourasia" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=roshan-chourasia&show_icons=true&locale=en" alt="roshan-chourasia" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-chourasia&show_icons=true&locale=en&layout=compact" alt="roshan-chourasia" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
