@@ -9,14 +9,15 @@
 
 ### 🔭 I’m currently working on
 
-- **X Clone (UI Only)** – A Twitter/X homepage clone using **HTML + Tailwind CSS**  
-  🔧 Built with: Node.js setup, Tailwind CLI, PostCSS, Vite, and npm scripts  
-  🔗 [View Repo](https://github.com/Roshan-Chourasia/tailwind-x-clone)
+- **Password Manager App** – A full-stack password manager using **React, Tailwind CSS, Express.js & MongoDB**
+  - 🔧 Planned features: Encryption, authentication, CRUD, and secure password storage  
+  - 🧱 Stack: MERN (MongoDB, Express.js, React, Node.js)
 
 ---
 
 ### ✅ Recently Completed
 
+- ✅ **React.js** – Built a feature-rich Todo App using hooks, state, effects, and local storage
 - ✅ **Node.js** – Setup, npm, and core modules (`fs`, `path`)  
 - ✅ **Express.js** – Routing, middleware, and basic templating  
 - ✅ **MongoDB** – CRUD operations with Mongoose integration  
@@ -26,27 +27,28 @@
 
 ### 🌱 Currently Learning
 
-- ⚛️ **React.js** – Building a **Todo List App** to solidify React fundamentals  
-- 🧭 Up Next: **Next.js** – SSR, routing, and full-stack capabilities
+- 🧭 **Next.js** – Routing, SSR, static site generation, and API routes
 
 ---
 
 ### 👯 I’m looking to collaborate on
 
-- Full-Stack Projects using the **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- **Full-Stack Web Projects** using the **MERN Stack**  
+- Frontend-focused tools or mini-apps that improve productivity
 
 ---
 
 ### 🤝 I’m looking for help with
 
-- Backend optimization: Express middleware, secure API design, and performance
+- Backend architecture – Efficient API design, Express middleware, auth workflows  
+- Security – Data protection, JWT-based auth, and encryption best practices
 
 ---
 
 ### 💬 Ask me about
 
-- **Frontend** – HTML, CSS, JavaScript, Tailwind  
-- **Tooling** – npm, Vite, PostCSS, Git/GitHub
+- Frontend: HTML, CSS, JavaScript, React, Tailwind  
+- Tooling: npm, Vite, GitHub, PostCSS, local dev setups
 
 ---
 
@@ -57,6 +59,10 @@
 ---
 
 ### 🛠️ My Projects
+
+- **TickTask – React Todo App**  
+  Sleek todo list with local storage, CRUD, and mobile responsiveness  
+  🔗 [View Repo](https://github.com/Roshan-Chourasia/Tick-Task-React)
 
 - **Alcohol Detection in Motor Vehicles**  
   A safety system using Arduino + GSM + GPS + MQ-3 sensor  
@@ -81,9 +87,9 @@
 
 ### 📈 What’s Next?
 
-- ✅ Build and polish Todo App in React  
-- 🔜 Start learning **Next.js** (App Router, API routes, SSR/SSG)  
-- 🚀 Deploy projects on platforms like **Vercel** or **Netlify**
+- 🔜 Learn Next.js and explore advanced React features  
+- 🔐 Build full-stack **Password Manager App** with React + MongoDB  
+- 🚀 Deploy projects on **Vercel**, **Netlify**, or **Render**
 
 ---
 
