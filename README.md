@@ -62,7 +62,7 @@
 
 - **TickTask – React Todo App**  
   Sleek todo list with local storage, CRUD, and mobile responsiveness  
-  🔗 [View Repo](https://github.com/Roshan-Chourasia/Tick-Task-React)
+  🔗 [View Live](https://roshan-chourasia.github.io/Tick-Task-React/)
 
 - **Alcohol Detection in Motor Vehicles**  
   A safety system using Arduino + GSM + GPS + MQ-3 sensor  
