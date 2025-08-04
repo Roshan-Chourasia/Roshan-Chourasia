@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roshan Chourasia</h1>
-<h3 align="center">I'm a passionate Frontend Developer from India 🇮🇳, building engaging user interfaces and exploring the world of Full-Stack Web Development.</h3>
+
+<p align="center">
+  I'm a passionate <b>Full-Stack Web Developer</b> from 🇮🇳 India, focused on building clean, responsive UIs and scalable backend solutions using the <b>MERN stack</b>.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roshan-chourasia&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-chourasia" />
@@ -9,46 +12,44 @@
 
 ### 🔭 I’m currently working on
 
-- **Password Manager App** – A full-stack password manager using **React, Tailwind CSS, Express.js & MongoDB**
-  - 🔧 Planned features: Encryption, authentication, CRUD, and secure password storage  
-  - 🧱 Stack: MERN (MongoDB, Express.js, React, Node.js)
+**🔐 Password Manager App** – A secure full-stack app to store and manage passwords  
+  - Tech Stack: React, Tailwind CSS, Express.js, MongoDB  
+  - **Features:** Authentication, CRUD operations, secure storage, and responsive UI
+
 
 ---
 
 ### ✅ Recently Completed
 
-- ✅ **React.js** – Built a feature-rich Todo App using hooks, state, effects, and local storage
-- ✅ **Node.js** – Setup, npm, and core modules (`fs`, `path`)  
-- ✅ **Express.js** – Routing, middleware, and basic templating  
-- ✅ **MongoDB** – CRUD operations with Mongoose integration  
-- ✅ **Tailwind CSS** – Setup via CLI, PostCSS, and `vite` for development
+- ✅ **MERN Stack Development** – End-to-end apps with MongoDB, Express, React, and Node.js
+- ✅ **Next.js** – Built dynamic apps with file-based routing, API routes, SSR, and static generation
+- ✅ **React.js** – Feature-rich Todo App using hooks, local storage, and clean component design
+- ✅ **MongoDB & Mongoose** – Modeled schemas and performed CRUD operations efficiently
+- ✅ **Tailwind CSS** – Configured with PostCSS and Vite for modern, utility-first UI development
+- ✅ **Express.js** – Built APIs, handled routes, middleware, and connected with MongoDB
 
 ---
 
 ### 🌱 Currently Learning
 
-- 🧭 **Next.js** – Routing, SSR, static site generation, and API routes
+- **Authentication Workflows** – JWT, OAuth, and session-based strategies for secure apps
+- **DevOps Basics** – Hosting full-stack apps with version control, CI/CD, and deployment pipelines
 
 ---
 
 ### 👯 I’m looking to collaborate on
 
-- **Full-Stack Web Projects** using the **MERN Stack**  
-- Frontend-focused tools or mini-apps that improve productivity
-
----
-
-### 🤝 I’m looking for help with
-
-- Backend architecture – Efficient API design, Express middleware, auth workflows  
-- Security – Data protection, JWT-based auth, and encryption best practices
+- Full-stack web projects using **MERN** or **Next.js**
+- Frontend-focused tools, productivity apps, or real-time dashboards
+- Projects involving **authentication**, **encryption**, or **security best practices**
 
 ---
 
 ### 💬 Ask me about
 
-- Frontend: HTML, CSS, JavaScript, React, Tailwind  
-- Tooling: npm, Vite, GitHub, PostCSS, local dev setups
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, MongoDB
+- **Tools:** GitHub, Vite, PostCSS, npm, Netlify, Render, VS Code
 
 ---
 
