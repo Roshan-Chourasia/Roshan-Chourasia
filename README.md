@@ -61,6 +61,11 @@
 
 ### 🛠️ My Projects
 
+- **LockBuddy - Password Manager App**  
+  A secure, full-stack app for storing and managing passwords, focused on privacy and user-friendly design.  
+  **Tech Stack**: React, Tailwind CSS, Express.js, MongoDB  
+  🔗 [View Repo](https://github.com/Roshan-Chourasia/lockbuddy-password-manager)
+
 - **TickTask – React Todo App**  
   Sleek todo list with local storage, CRUD, and mobile responsiveness  
   🔗 [View Live](https://roshan-chourasia.github.io/Tick-Task-React/)
@@ -83,14 +88,6 @@
   A Twitter/X homepage clone using **HTML + Tailwind CSS**  
   💡 Setup includes: `npm init`, Tailwind CLI, PostCSS, `vite`, and build scripts  
   🔗 [View Repo](https://github.com/Roshan-Chourasia/tailwind-x-clone)
-
----
-
-### 📈 What’s Next?
-
-- 🔜 Learn Next.js and explore advanced React features  
-- 🔐 Build full-stack **Password Manager App** with React + MongoDB  
-- 🚀 Deploy projects on **Vercel**, **Netlify**, or **Render**
 
 ---
 
